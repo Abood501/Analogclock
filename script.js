@@ -1,5 +1,5 @@
 const secDiv = document.getElementById('sec');
-const minDiv = document.getElementById('mint');
+const minDiv = document.getElementById('min');
 const hourDiv = document.getElementById('hour');
 
 
