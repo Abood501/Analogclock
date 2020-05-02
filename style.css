@@ -5,7 +5,7 @@
 	font-family: 'exo 2', sans-serif;
 }
 body {
-  background: linear-gradient(to right, hsl(305, 100%, 50%), hsl(298, 100%, 50%));
+  background-color: blanchedalmond;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -126,7 +126,7 @@ body {
 .sec{
 	width: 1px;
   height: 40%;
-  background-color:black;
+  background-color:blueviolet;
 }
 
 .min{
@@ -139,6 +139,6 @@ body {
 .hour{
 	height: 28%;
 	width: 8px;
-  border-radius: 4px;
+  border-radius: 3px;
   background-color: black;
 }
