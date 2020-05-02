@@ -9,13 +9,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 150vh;
+  min-height: 100vh;
   overflow: hidden;
 }
 
 .clock {
-  width: 400px;
-  height: 400px;
+  width: 350px;
+  height: 350px;
   background-color:brown;
   border: 5px solid black;
   position: relative;
@@ -126,7 +126,7 @@ body {
 .sec{
 	width: 1px;
   height: 40%;
-  background-color: red;
+  background-color:black;
 }
 
 .min{
